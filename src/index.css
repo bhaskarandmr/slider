@@ -1,4 +1,4 @@
-/* @import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Karla&display=swap');
 
 body {
   font-family: Karla;
@@ -88,4 +88,4 @@ body {
 
 .controls button:nth-child(1) {
   margin-right: 2rem;
-} */
+}

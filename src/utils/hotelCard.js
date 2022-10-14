@@ -1,11 +1,11 @@
 export const hotelCards = [
     {
       imageSrc:
-        "https://images.unsplash.com/photo-1559508551-44bff1de756b?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=387&q=80",
-      title: "Studio Room",
-      description: "Lorem ipsum dolor sit amet, consectur dolori",
-      pricingText: "USD 50/Day",
-      features: ["Free Wifi", "Free breakfast"],
+        "https://img.dinamalar.com/data/lvevent/401343_smathavan_DSC_8587_Crop_20221014_154024.jpg",
+      title: "சிவகங்கை அரசு மருத்துவமனை வளாகத்தில் டாக்டர்கள், மாணவர்கள், ஊழியர்கள் இணைந்து மரம் நட்டு உலக சாதனை முயற்சியில் ஈடுபட்டனர். ",
+      description: "",
+      pricingText: "",
+      features: [""],
     },
     {
       imageSrc:

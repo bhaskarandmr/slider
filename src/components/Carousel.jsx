@@ -56,7 +56,7 @@ const Carousel = () => {
                 ))}
               </ul>
             </div>
-            <button>Buy Now</button>
+            
           </div>
         ))}
       </Slider>

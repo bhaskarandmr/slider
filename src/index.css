@@ -29,8 +29,11 @@ body {
   color: #2d3748;
 }
 h2{
-  font-size:12px;
+  font-size:17px;
   margin:0px;
+}
+li{
+  list-style:none;
 }
 .card-image {
   width: 100%;
